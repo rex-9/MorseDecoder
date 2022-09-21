@@ -2,6 +2,9 @@
 
 ## Author
 
+👤 **Rex**
+- GitHub: [@rex-9](https://github.com/rex-9)
+- LinkedIn: [@rex9](https://www.linkedin.com/in/rex9/)
 
 | 👤 Name | Github | Twitter | LinkedIn |
 |------|--------|---------|----------|
